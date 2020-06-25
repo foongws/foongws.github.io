@@ -294,6 +294,7 @@ figure {
           margin: 0;
           padding: 0;
           color: rgba(15, 76, 129);
+          background-color: rgba(255, 255, 255, 0.8);
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
