@@ -24,7 +24,7 @@ body {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
-  background-color: rgba(0, 0, 0);
+  background-color: #ffffff;
   color: #5797CF; }
   @media screen and (max-width: 992px) {
     body {
